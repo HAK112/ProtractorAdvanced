@@ -41,8 +41,6 @@ describe("Banking Project Test" ,function(){
                         console.log("Item Find in the List");
                         items[i].click();
                     }
-                
-
                 });
             }
         });
